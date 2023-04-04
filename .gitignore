@@ -8,6 +8,7 @@ Content/Collections/
 Content/Developers/
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
+Platforms/
 WindowsNoEditor/
 MacNoEditor/
 Android_*/
